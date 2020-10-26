@@ -3,7 +3,7 @@ My name is Jacky Ly. I am an inspiring co-op student studying Computer Science a
 
 Check out my projects and [GitHub repositories](https://github.com/lyjacky11?tab=repositories)!
 
-Website: [https://JackyLy.ca/](https://JackyLy.ca)
+Website: [https://JackyLy.ca](https://JackyLy.ca)
 
 Resume: [https://JackyLy.ca/resume](https://JackyLy.ca/resume)
 
