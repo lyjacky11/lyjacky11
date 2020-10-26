@@ -3,9 +3,9 @@ My name is Jacky Ly. I am an inspiring co-op student studying Computer Science a
 
 Check out my projects and [GitHub repositories](https://github.com/lyjacky11?tab=repositories)!
 
-Website: [https://jackyly.ca/](https://jackyly.ca/)
+Website: [https://JackyLy.ca/](https://JackyLy.ca)
 
-Resume: [https://jackyly.ca/resume](https://jackyly.ca/resume)
+Resume: [https://JackyLy.ca/resume](https://JackyLy.ca/resume)
 
 <!--
 **lyjacky11/lyjacky11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
