@@ -1,7 +1,5 @@
 ### Hi there! 👋
-My name is Jacky Ly. I am an inspiring co-op student studying Computer Science at Ryerson University
-
-Check out my projects and [GitHub repositories](https://github.com/lyjacky11?tab=repositories)!
+My name is Jacky Ly. I am an inspiring co-op student studying Computer Science at Ryerson University. Check out my projects and [GitHub repositories](https://github.com/lyjacky11?tab=repositories)!
 
 Website: [https://jackyly.ca/](https://jackyly.ca/)
 
