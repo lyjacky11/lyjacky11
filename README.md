@@ -1,6 +1,5 @@
 ### Hi there! 👋
-
-My name is Jacky Ly. I am an inspiring co-op student studying Computer Science.
+My name is Jacky Ly. I am an inspiring co-op student studying Computer Science at Ryerson University.
 
 Check out my GitHub projects and repos!
 
@@ -9,11 +8,22 @@ Check out my GitHub projects and repos!
 -->
 
 ### About Me
-
 - 🎓 Ryerson University | Computer Science
 - 💻 Currently on a co-op work term.
 - 📚 Trying to learn more programming languages and frameworks.
 - 💬 Ask me about anything!
+
+### Languages
+- Java
+- Python
+- C#
+- HTML5/CSS3
+- Javascript
+
+### Frameworks
+- ASP.NET Core MVC
+- Bootstrap
+- React
 
 <!--
 - 🔭 I’m currently working on ...
