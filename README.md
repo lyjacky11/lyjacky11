@@ -1,7 +1,11 @@
 ### Hi there! 👋
-My name is Jacky Ly. I am an inspiring co-op student studying Computer Science at Ryerson University.
+My name is Jacky Ly. I am an inspiring co-op student studying Computer Science at Ryerson University
 
-Check out my GitHub projects and repos!
+Check out my projects and [GitHub repositories](https://github.com/lyjacky11?tab=repositories)!
+
+Website: [https://jackyly.ca/](https://jackyly.ca/)
+
+Resume: [https://jackyly.ca/resume](https://jackyly.ca/resume)
 
 <!--
 **lyjacky11/lyjacky11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
