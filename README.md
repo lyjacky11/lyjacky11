@@ -1,5 +1,5 @@
 ### Hi there! 👋
-Hi there! My name is Jacky Ly and I'm currently a co-op student studying Computer Science at Ryerson University. I build and develop websites in HTML5/CSS3, JavaScript, React, and applications in Java, Python, C#, and more! I can learn new concepts quickly and complete technical tasks efficiently with minimal guidance.
+My name is Jacky Ly and I'm a co-op student studying Computer Science at Ryerson University. I build and develop websites in HTML5/CSS3, JavaScript, React, and applications in Java, Python, and C#. I can learn new concepts quickly and complete technical tasks efficiently with minimal guidance.
 
 Check out my projects and [GitHub repositories](https://github.com/lyjacky11?tab=repositories)!
 
