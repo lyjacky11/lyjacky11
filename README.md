@@ -27,11 +27,12 @@ My name is Jacky Ly and I'm a co-op student studying Computer Science at Ryerson
 - 💬 Reach me through email: [jacky.ly@ryerson.ca](mailto:jacky.ly@ryerson.ca)
 
 ### Languages
-- Java
-- Python
-- C#
-- HTML5/CSS3
-- Javascript
+- ☕ Java
+- 🐍 Python
+- <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" width="20px" /> C#
+- <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width="20px" /> HTML5
+- <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" width="20px" /> CSS3
+- <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="20px" /> Javascript
 
 ### Frameworks
 - ASP.NET Core MVC
