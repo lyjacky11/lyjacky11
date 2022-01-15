@@ -2,7 +2,7 @@
 **lyjacky11/lyjacky11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-### Hi there! 👋
+### Welcome to my GitHub! 👋
 Hi there! My name is Jacky Ly and I'm currently a co-op student studying Computer Science at Ryerson University.
 
 I build and develop web apps in HTML5, CSS3, JavaScript, React, and other applications in Java, Python, C#, and more! Check out my projects and [GitHub repositories](https://github.com/lyjacky11?tab=repositories)!
@@ -28,6 +28,7 @@ I build and develop web apps in HTML5, CSS3, JavaScript, React, and other applic
 - 📃 View my resume: [https://JackyLy.ca/resume](https://JackyLy.ca/resume)
 - 💬 Reach me through email: [jacky.ly@ryerson.ca](mailto:jacky.ly@ryerson.ca)
 
+<!--
 ### Languages
 - ☕ Java
 - <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" width="20px" /> Python
@@ -44,6 +45,7 @@ I build and develop web apps in HTML5, CSS3, JavaScript, React, and other applic
 - <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" width="20px" /> Visual Studio / VS Code
 - <img src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" width="20px" /> Git / GitHub
 - <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" width="20px" /> SQL Studio
+-->
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lyjacky11&count_private=true&hide=prs&include_all_commits=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lyjacky11&layout=compact)
