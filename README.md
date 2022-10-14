@@ -3,7 +3,7 @@
 -->
 
 ### Welcome to my GitHub! 👋
-Hi there! My name is Jacky Ly and I'm currently a co-op student studying Computer Science at Ryerson University.
+Hi there! My name is Jacky Ly and I'm currently studying Computer Science at Ryerson University.
 
 I build and develop web apps in HTML5, CSS3, JavaScript, React, and other applications in Java, Python, C#, and more! Check out my projects and [GitHub repositories](https://github.com/lyjacky11?tab=repositories)!
 
