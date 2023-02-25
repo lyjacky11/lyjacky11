@@ -2,10 +2,11 @@
 **lyjacky11/lyjacky11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-### Welcome to my GitHub! 👋
-Hi there! My name is Jacky Ly and I'm currently studying Computer Science at Ryerson University.
+### Hi there, I'm Jacky! 👋
 
-I build and develop web apps in HTML5, CSS3, JavaScript, React, and other applications in Java, Python, C#, and more! Check out my projects and [GitHub repositories](https://github.com/lyjacky11?tab=repositories)!
+As a software engineer, I specialize in building real-time web applications using HTML/CSS, JavaScript, React, and other frameworks. I am passionate about learning new technologies and creating high-quality projects in my spare time! With experience in both front-end and back-end development, I am skilled in creating robust and scalable solutions that meet user needs. I am always looking for new opportunities to grow and contribute to innovative projects!
+
+Check out my projects and [GitHub repositories](https://github.com/lyjacky11?tab=repositories)!
 
 <!--
 - 🔭 I’m currently working on ...
@@ -26,7 +27,7 @@ I build and develop web apps in HTML5, CSS3, JavaScript, React, and other applic
 ### Contact Info
 - 🌐 Check out my website! [https://JackyLy.ca](https://JackyLy.ca)
 - 📃 View my resume: [https://JackyLy.ca/resume](https://JackyLy.ca/resume)
-- 💬 Reach me through email: [jacky.ly@ryerson.ca](mailto:jacky.ly@ryerson.ca)
+- 💬 Reach me through email: [jacky@jackyly.ca](mailto:jacky@jackyly.ca)
 
 <!--
 ### Languages
