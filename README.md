@@ -21,7 +21,7 @@ Check out my projects and [GitHub repositories](https://github.com/lyjacky11?tab
 ### About Me
 - 🎓 Ryerson University | Computer Science
 - 💻 Currently working as a software engineer.
-- ⚡ Working on creating projects in React.
+- ⚡ Creating new projects in React and Next.js.
 - 📚 Trying to learn more programming languages and frameworks.
 
 ### Contact Info
