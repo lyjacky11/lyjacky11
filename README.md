@@ -48,5 +48,7 @@ Check out my projects and [GitHub repositories](https://github.com/lyjacky11?tab
 - <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" width="20px" /> SQL Studio
 -->
 
+<!--
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lyjacky11&count_private=true&hide=prs&include_all_commits=true)
+-->
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lyjacky11&layout=compact)
